@@ -4,12 +4,12 @@
 # Set up initial conditions
 # **************************************************
 
-N0 = 1000.0     # Initial population size
+N0 = 10000     # Initial population size
 
-rate_A = 1.2    # Growth rate allele "A"
-rate_a = 1.2    # Growth rate allele "a"
+rate_A = 0.8    # Growth rate allele "A"
+rate_a = 0.6    # Growth rate allele "a"
 
-fA = 0.3        # Frequency of allele "A"
+fA = 0.02        # Frequency of allele "A"
 
 max_gen = 20    # Number of generations to simulate
 
